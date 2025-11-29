@@ -46,12 +46,12 @@ Production-grade document processing system with ML classification (85%+ accurac
 
 **Tech:** Python, FastAPI, React, PostgreSQL, scikit-learn, spaCy, Tesseract, MLflow, Docker
 
-### [Multi-Agent RAG Financial Analyzer](https://github.com/cuthbertola/multi-agent-financial-rag) *(Coming Soon)*
+### [Multi-Agent RAG Financial Analyzer](https://github.com/cuthbertola/multi-agent-financial-rag)
 Multi-agent LLM system for financial document analysis using RAG and intelligent orchestration.
 
 **Tech:** Python, LangChain, OpenAI, ChromaDB, Langfuse, FastAPI, AWS
 
-### [CV Defect Detection System](https://github.com/cuthbertola/cv-defect-detection) *(Coming Soon)*
+### [CV Defect Detection System](https://github.com/cuthbertola/cv-defect-detection)
 Real-time computer vision system for manufacturing defect detection using deep learning.
 
 **Tech:** Python, PyTorch, YOLOv8, OpenCV, FastAPI, Docker
