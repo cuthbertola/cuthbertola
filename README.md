@@ -9,7 +9,7 @@ A Machine Learning Engineer who loves building production-grade AI systems that 
 - **Learning:** Exploring LLMs, Multi-Agent Systems, and MLOps best practices
 - **Collaboration:** Open to collaborating on innovative AI/ML projects
 - **Availability:** Currently seeking Machine Learning Engineer roles
-- **Location:** Coventry, United Kingdom
+- **Location:** United Kingdom
 
 ---
 
